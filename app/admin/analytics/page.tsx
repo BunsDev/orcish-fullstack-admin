@@ -18,7 +18,7 @@ import {
 } from "@/components/ui/chart";
 import { chartData } from ".";
 
-export const description = "An interactive bar chart";
+// export const description = "An interactive bar chart";
 
 const chartConfig = {
   views: {
